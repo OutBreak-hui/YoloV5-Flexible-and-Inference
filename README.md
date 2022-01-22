@@ -4,4 +4,4 @@
 
 
 欢迎关注我们的公众号一起交流：
-![AIt text](https://github.com/OutBreak-hui/YoloV5-Flexible-and-Inference/main/pic.png)
+![AIt text](https://github.com/OutBreak-hui/YoloV5-Flexible-and-Inference/blob//main/pic.png)
